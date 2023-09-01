@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1693550031~exp=1693550631~hmac=599d12755cdeb6d60131e3f3b607d5ee4ab58bb2e81e60b42a11fe1aabe19653" alt="ananyatripathi" /> </p>
+<a href="https://github.com/Ananya-Tripathi"><p align="center"> <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?w=996&t=st=1693550031~exp=1693550631~hmac=599d12755cdeb6d60131e3f3b607d5ee4ab58bb2e81e60b42a11fe1aabe19653" alt="ananyatripathi" /> </p></a>
 <h1 align="center">Hi 👋, I'm <a href="https://ananya-tripathi.github.io/portfolio/">Ananya Tripathi</a></h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <p align="center"></p>
